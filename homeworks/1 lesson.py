@@ -22,4 +22,15 @@
 # print(a**2)
 
 
-# hard
+# hard Медицинская анкета
+# name = input("Как Вас зовут?")
+# age = int(input("Сколько Вам лет?"))
+# weight = int(input("Какой у Вас вес?"))
+# if age <= 30 and 50 <= weight <= 120:
+#     print("Вы в хорошем состоянии!")
+# elif 30 <= age < 40 and  (weight < 50 or weight > 120):
+#     print("Здоровый образ жизни ждет Вас!")
+# elif age > 40 and (weight < 50 or weight > 120):
+#     print("Требуется врачебный осмотр!")
+# else:
+#     print("Принт не задан ТЗ =)")
